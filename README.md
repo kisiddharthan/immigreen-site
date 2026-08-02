@@ -7,5 +7,5 @@ Before publishing:
 4. Enable GitHub Pages from the main branch and root folder.
 
 App Store Connect URLs:
-- Privacy: https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/privacy.html
-- Support: https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/support.html
+- Privacy: https://kisiddharthan.github.io/immigreen-site/privacy.html
+- Support: https://kisiddharthan.github.io/immigreen-site/support.html
