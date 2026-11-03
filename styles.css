@@ -3,7 +3,7 @@ a{text-decoration:none;color:inherit}.container{width:min(1100px,calc(100% - 32p
 nav{position:sticky;top:0;background:rgba(244,248,244,.9);backdrop-filter:blur(16px);border-bottom:1px solid #dfe8e2;z-index:5}
 .nav{display:flex;justify-content:space-between;align-items:center;min-height:72px}.brand{display:flex;gap:12px;align-items:center;font-weight:800}
 .brand img{width:42px;height:42px;border-radius:12px}.links{display:flex;gap:22px;align-items:center;color:#66736c}
-.btn{display:inline-block;padding:13px 20px;border-radius:999px;font-weight:700}.primary{background:#0f6b4f;color:#fff}.secondary{background:#fff;border:1px solid #dfe8e2}
+.btn{display:inline-block;padding:13px 20px;border-radius:999px;font-weight:700}.primary{background:#0f6b4f;color:#fff}.secondary{background:#fff;border:1px solid #dfe8e2;color:#0f6b4f}
 .hero{padding:80px 0}.grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
 h1{font-size:clamp(3rem,7vw,5.7rem);line-height:1;letter-spacing:-.05em;margin:18px 0}.lead{font-size:1.2rem;color:#66736c}
 .logo-card,.card,article{background:#fff;border:1px solid #dfe8e2;border-radius:28px;box-shadow:0 18px 50px rgba(15,50,35,.09)}
